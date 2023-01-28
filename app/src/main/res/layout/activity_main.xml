@@ -10,7 +10,7 @@
         android:id="@+id/drawingView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_margin="5dp"
+        android:layout_margin="6dp"
         android:background="@drawable/background_drawing_view_layout"
 
         app:layout_constraintBottom_toBottomOf="parent"
